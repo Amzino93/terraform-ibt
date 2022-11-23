@@ -1,1 +1,5 @@
-cider_block="10.0.30.0/24"
+cider_block_subnet="10.0.30.0/24"
+cider_block_vpc = "10.0.0.0/16"
+organisation = "ibt"
+environment = "dev"
+instance_type = "t2.micro"
